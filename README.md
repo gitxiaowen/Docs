@@ -1,2 +1,2 @@
-# Docs
-This folder contains all the documents while we develop our blog system.
+#Docs
+本目录存放博客网站项目的所有文档资料
