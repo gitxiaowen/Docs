@@ -12,7 +12,7 @@ paginate_path: "page:num"
 # presonal config
 domain: www.mydolby.xyz
 title: Xiaowen's Blog
-description: Android, Cocos2d, Java Web, Linux, reading...
+description: 这里是网站的描述
 author: Dolby
 email: githubxiaowen#gmail.com
 github: githubxiaowen
