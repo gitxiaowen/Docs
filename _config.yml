@@ -1,23 +1,11 @@
-markdown: redcarpet
-permalink: /:categories/:title.html
-url: 
-lsi: false
-pygments: true
-safe: true
-auto: false 
-
-paginate: 8
-paginate_path: "page:num"
-
-# presonal config
-domain: www.mydolby.xyz
-title: Xiaowen's Blog
-description: 这里是网站的描述
-author: Dolby
-email: githubxiaowen#gmail.com
-github: githubxiaowen
-
-config:
-  js_dir:
-  img_dir:
-  css_dir:
+markdown: rdiscount
+highlighter: pygments
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+kramdown:
+  input: GFM
